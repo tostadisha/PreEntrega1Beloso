@@ -1,0 +1,16 @@
+body {
+  background-color: #FFBB5C;
+}
+
+.tituloPreentrega {
+  display: flex;
+  justify-content: center;
+}
+.tituloPreentrega h1 {
+  background-color: #C63D2F;
+  padding: 5px;
+  border-radius: 10px;
+  color: wheat;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/base/_reset.scss","../scss/utils/_variables.scss","../scss/pages/_impuestos.scss"],"names":[],"mappings":"AAAA;EACI,kBCDY;;;ACAhB;EACI;EACA;;AACA;EACI,kBDFW;ECGX;EACA;EACA","file":"styles.css"}
